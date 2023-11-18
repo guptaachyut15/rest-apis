@@ -54,11 +54,9 @@ Notice change in jobTitle to "Avenger!"
 John Doe is gone
 ![image](https://github.com/guptaachyut15/rest-apis/assets/108484224/7832fc52-95b4-4f58-b90e-e7f1445c1bd4)
 
+### logs stored(functionality of a coded middleware) :
 
-
-
-
-
+![image](https://github.com/guptaachyut15/rest-apis/assets/108484224/bc569ab1-f2d4-48d6-b113-d2a239857cd6)
 
 ## Contributing
 
