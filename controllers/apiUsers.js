@@ -7,7 +7,7 @@ exports.handleGetUsers = async (req, res) => {
 exports.handleCreateUser = async (req, res) => {
   let data = req.body;
   let result = await user.create({
-    firstName: data.firstname,
+    firstName: data.firstName,
     lastName: data.lastName,
     email: data.email,
     jobTitle: data.jobTitle,

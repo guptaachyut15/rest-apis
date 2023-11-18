@@ -1,2 +1,17 @@
 
 1700291262661:GET:::1:/api/users
+1700293240182:GET:::1:/api/users
+1700293243657:GET:::1:/api/users
+1700293288721:POST:::ffff:127.0.0.1:/api/users
+1700293326357:POST:::ffff:127.0.0.1:/api/users
+1700293377504:POST:::ffff:127.0.0.1:/api/users
+1700293544076:POST:::ffff:127.0.0.1:/api/users
+1700293612769:GET:::ffff:127.0.0.1:/api/users
+1700293634579:GET:::ffff:127.0.0.1:/users
+1700293762480:POST:::ffff:127.0.0.1:/api/users
+1700293783590:POST:::ffff:127.0.0.1:/api/users
+1700293829411:POST:::ffff:127.0.0.1:/api/users
+1700293861497:GET:::ffff:127.0.0.1:/users
+1700293879562:GET:::ffff:127.0.0.1:/api/users
+1700293937064:PATCH:::ffff:127.0.0.1:/api/users/65586c970918adaf05a071dc
+1700294011991:DELETE:::ffff:127.0.0.1:/api/users/65586cc50918adaf05a071de
